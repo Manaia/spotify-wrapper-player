@@ -678,6 +678,10 @@
 
   Aula 115 - Configurando o Webpack-dev-server
     * Foi realizado um clone do repositório js-tdd-course para dar início ao projeto
+    * Instalando as dependencias iniciais: npm install --save-dev babel-loader webpack webpack-dev-server
+    * Criando um arquivona raiz do projeto chamado webpack.config.js
+    * Configurando e instalando o webpack juntamente com o servidor webpack
+    * Criando uma página de exemplo e executando um script de inicialização do servidor (./node_modules/.bin/webpack-dev-server)
 -- Fim do módulo 9
 
 -- Início do módulo 10: Criando uma CLI para Converter Bitcoin em Qualquer Moeda
