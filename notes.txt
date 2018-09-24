@@ -682,6 +682,12 @@
     * Criando um arquivona raiz do projeto chamado webpack.config.js
     * Configurando e instalando o webpack juntamente com o servidor webpack
     * Criando uma página de exemplo e executando um script de inicialização do servidor (./node_modules/.bin/webpack-dev-server)
+
+  Aula 116 - Criando o Markup Básico da Aplicação
+    * Nesta aula foi feito a página HTML juntamente com a folha de estilo para que pudessemos trabalhar em cima desse layout
+  
+  Aula 117 - Importando a Biblioteca do Spotify Wrapper
+    *
 -- Fim do módulo 9
 
 -- Início do módulo 10: Criando uma CLI para Converter Bitcoin em Qualquer Moeda
