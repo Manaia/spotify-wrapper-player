@@ -692,6 +692,12 @@
     * Importamos e invocamos a classe para ser utilizadas
 
   Aula 118 - Criando componente de AlbumList
+    * Criando o componente ListItem que está dentro do container List
+    * Primeiramente, foi criada um arquivo de teste referente ao componente AlbumList
+    * Foi realizado os smoke test
+    * jsdom e jsdom-global (https://github.com/rstacruz/jsdom-global)
+    * Instalando a lib jsdom e jsdom-global, que tem o objetivo de acessar o dom através do nodejs (npm install --save-dev jsdom jsdom-global)
+    * Criando a função de criar markup e renderizar o album correspondente
 -- Fim do módulo 9
 
 -- Início do módulo 10: Criando uma CLI para Converter Bitcoin em Qualquer Moeda
