@@ -687,7 +687,11 @@
     * Nesta aula foi feito a página HTML juntamente com a folha de estilo para que pudessemos trabalhar em cima desse layout
   
   Aula 117 - Importando a Biblioteca do Spotify Wrapper
-    *
+    * Primeiramente foi criado um arquivo de teste para se utilizar a lib spotify-wrapper
+    * Adicionamos a lib do spotify-wrapper (npm install --save spotify-w)
+    * Importamos e invocamos a classe para ser utilizadas
+
+  Aula 118 - Criando componente de AlbumList
 -- Fim do módulo 9
 
 -- Início do módulo 10: Criando uma CLI para Converter Bitcoin em Qualquer Moeda
