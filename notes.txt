@@ -701,7 +701,15 @@
 
   Aula 119 - Adicionando o AlbumList no Layout
     * Foi criado no HTML o layout de albums para a visualização dos albums dos artistas escolhidos
-    
+  
+  Aula 120 - Criando componente AlbumInfo
+    * Foi criado dois novos arquivos um para teste chamado AlbumInfo.spec.js e outro com o desenvolvimento AlbumInfo.js
+    * Os métodos e a os teste foram semelhantes ao AlbumList, pois segue o mesmo padrão
+  
+  Aula 121 - Adicionando AlbumInfo no Layout
+    * Foi criado no HTML o layout de album info para a visualização das informações do album escolhido
+  Aula 122 - Criando componente AlbumTracks
+    * 
 -- Fim do módulo 9
 
 -- Início do módulo 10: Criando uma CLI para Converter Bitcoin em Qualquer Moeda
