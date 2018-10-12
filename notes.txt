@@ -698,6 +698,9 @@
     * jsdom e jsdom-global (https://github.com/rstacruz/jsdom-global)
     * Instalando a lib jsdom e jsdom-global, que tem o objetivo de acessar o dom através do nodejs (npm install --save-dev jsdom jsdom-global)
     * Criando a função de criar markup e renderizar o album correspondente
+
+  Aula 119 - Adicionando o AlbumList no Layout
+    *
 -- Fim do módulo 9
 
 -- Início do módulo 10: Criando uma CLI para Converter Bitcoin em Qualquer Moeda
