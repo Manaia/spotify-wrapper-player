@@ -700,7 +700,8 @@
     * Criando a função de criar markup e renderizar o album correspondente
 
   Aula 119 - Adicionando o AlbumList no Layout
-    *
+    * Foi criado no HTML o layout de albums para a visualização dos albums dos artistas escolhidos
+    
 -- Fim do módulo 9
 
 -- Início do módulo 10: Criando uma CLI para Converter Bitcoin em Qualquer Moeda
