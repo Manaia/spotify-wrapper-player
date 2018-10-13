@@ -718,6 +718,14 @@
   Aula 123 - Adicionando AlbumTracks no Layout
     * Foi criado no HTML o layout de album tracks para a visualização das informações das músicas do album escolhido
     * O modo de ser feito foi semelhante ao AlbumList e AlbumInfo
+    * A única diferença, foi um teste criado para o renderAlbumInfo retornar o objeto da promise para renderizar as tracks
+  Aula 124 - Criando método ConvertToHumanTime
+    * Foi criado um método para converter os milissegundos em minutos/segundos, para uma melhor visualização
+    * Então, criamos um spec para realizar os testes das possíveis maneiras de visualização
+    * Ex: 0:00, 0:01, 0:11, 1:00 e etc
+
+  Aula 125 - Aplicando ConvertToHumanTime no Layout
+    * 
 -- Fim do módulo 9
 
 -- Início do módulo 10: Criando uma CLI para Converter Bitcoin em Qualquer Moeda
