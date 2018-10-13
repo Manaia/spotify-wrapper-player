@@ -725,7 +725,9 @@
     * Ex: 0:00, 0:01, 0:11, 1:00 e etc
 
   Aula 125 - Aplicando ConvertToHumanTime no Layout
-    * 
+    * No lugar do tempo que a API do spotify nos retorna, é aplicado o método ConvertToHumanTime para converter a duração da música.
+  Aula 126 - Criando SearchTrigger
+    *
 -- Fim do módulo 9
 
 -- Início do módulo 10: Criando uma CLI para Converter Bitcoin em Qualquer Moeda
