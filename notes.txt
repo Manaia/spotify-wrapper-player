@@ -727,7 +727,9 @@
   Aula 125 - Aplicando ConvertToHumanTime no Layout
     * No lugar do tempo que a API do spotify nos retorna, é aplicado o método ConvertToHumanTime para converter a duração da música.
   Aula 126 - Criando SearchTrigger
-    *
+    * Agora que realizamos os testes e verificamos as funções que iremos implementar, realizamos a primeira interação com o usuário quando ele digitar o nome de algum artista ou album
+    
+  Aula 127 - Criando SelectAlbumTrigger
 -- Fim do módulo 9
 
 -- Início do módulo 10: Criando uma CLI para Converter Bitcoin em Qualquer Moeda
