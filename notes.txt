@@ -734,7 +734,8 @@
     * E então, adicionamos isso em todos os elementos do markup de album
     * Depois utilizamos o código feito anteriormente e realizamos a busca do album e quando clicar no album, era exibido as informações tais como imagem do album, músicas, duração e etc..
   Aula 128 - Criando PlaylistTrigger
-    * 
+    * Foi criado um evento click no elemento de track, para quando for clicado a preview da música começar a tocar
+    * Diante disso foi criado algumas regrinhas, tais como adicionar uma classe quando a música clicada estiver tocando, remover quando ela não estiver tocando e entre outras.
 -- Fim do módulo 9
 
 -- Início do módulo 10: Criando uma CLI para Converter Bitcoin em Qualquer Moeda
