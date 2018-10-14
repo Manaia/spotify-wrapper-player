@@ -728,8 +728,13 @@
     * No lugar do tempo que a API do spotify nos retorna, é aplicado o método ConvertToHumanTime para converter a duração da música.
   Aula 126 - Criando SearchTrigger
     * Agora que realizamos os testes e verificamos as funções que iremos implementar, realizamos a primeira interação com o usuário quando ele digitar o nome de algum artista ou album
-    
+
   Aula 127 - Criando SelectAlbumTrigger
+    * Antes de realizarmos o código, primeiro criamos um teste em AlbumList para inserir um atributo chamado data-album-id e inserimos o id nele
+    * E então, adicionamos isso em todos os elementos do markup de album
+    * Depois utilizamos o código feito anteriormente e realizamos a busca do album e quando clicar no album, era exibido as informações tais como imagem do album, músicas, duração e etc..
+  Aula 128 - Criando PlaylistTrigger
+    * 
 -- Fim do módulo 9
 
 -- Início do módulo 10: Criando uma CLI para Converter Bitcoin em Qualquer Moeda
