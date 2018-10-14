@@ -36,7 +36,6 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-|:---------------------:|
 |  [Arthur Manaia](https://github.com/Manaia/)   |
 
 See also the list of [contributors](https://github.com/Manaia/spotify-wrapper-player/contributors) who participated in this project.
